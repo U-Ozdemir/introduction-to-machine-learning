@@ -1,7 +1,7 @@
 # Introduction to Machine Learning
 This directory contains a set of examples that will provide you with basic knowledge about Machine Learning. 
 
-## Concepts
+## Concepts Recap
 
 **Model** - a mathematical representation of a real world process; a predictive model forecasts a future outcome based on past data.
 
@@ -30,7 +30,7 @@ To get started clone the repository and create a new exercises branch. Start a J
 > jupyter notebook
 ```
 
-Go through the exercies in 01_Data_Cleaning and 02_Models. Then go through this Neural Network introduction tutorial: https://github.com/savarin/neural-networks. 
+Go through the exercies in [01_Data_Cleaning](https://github.com/Dzvezdana/introduction-to-machine-learning/tree/master/01_Data_Cleaning) and [02_Models](https://github.com/Dzvezdana/introduction-to-machine-learning/tree/master/02_Models). Then go through this [Neural Network introduction tutorial](https://github.com/savarin/neural-networks). 
 
 Extra work for the extra motivated. Finish these tutorials:
 
