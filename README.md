@@ -47,6 +47,8 @@ Extra work for the extra motivated. Finish these tutorials:
 * https://github.com/godatadriven/code-breakfast-azure-ml
 * https://github.com/beginners-machine-learning-london/intro_to_unsupervised_ml_with_AWS_Sagemaker/blob/f70412e02fdff5b0ccb47c7fd51b2914b896062a/exercises/Intro%20to%20Unsupervised%20ML%20with%20AWS%20Sagemaker.ipynb
 
+---
+
 References:
 * https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
 * https://github.com/qjcg/nb
