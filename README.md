@@ -1,9 +1,7 @@
 # Introduction to Machine Learning
+This directory contains a set of examples that will provide you with basic knowledge about Machine Learning. 
 
-This directory contains a set of examples that will provide you with basic knowledge about Machine Learning. To get started clone the repository and create a new *exercises* branch. 
-
-
-## Concepts
+## Concepts Recap
 
 **Model** - a mathematical representation of a real world process; a predictive model forecasts a future outcome based on past data.
 
@@ -23,5 +21,34 @@ This directory contains a set of examples that will provide you with basic knowl
 
 **Feature** - also known as an independent variable or a predictor variable, a feature is an observable quantity, recorded and used by a prediction model. You can also engineer features by combining them or adding new information to them.
 
-**Overfitting** - a situation in which a model that is too complex for the data has been trained to predict the target. This leads to an overly specialized
-model, which makes predictions that do not reflect the reality of the underlying relationship between the features and target.
+**Overfitting** - a situation in which a model that is too complex for the data has been trained to predict the target. This leads to an overly specialized model, which makes predictions that do not reflect the reality of the underlying relationship between the features and target.
+
+## Get started
+To get started clone the repository and create a new exercises branch. Start a Jupyter Notebook using:
+
+```bash
+> jupyter notebook
+```
+
+Go through the exercies in [01_Data_Cleaning](https://github.com/Dzvezdana/introduction-to-machine-learning/tree/master/01_Data_Cleaning) and [02_Models](https://github.com/Dzvezdana/introduction-to-machine-learning/tree/master/02_Models). Then go through this [Neural Network introduction tutorial](https://github.com/savarin/neural-networks). 
+
+Extra work for the extra motivated. Finish these tutorials:
+
+**Basic**:
+* https://www.kaggle.com/learn/intro-to-machine-learning
+* https://github.com/justmarkham/scikit-learn-videos
+* https://www.kaggle.com/alexisbcook/categorical-variables
+* https://www.kaggle.com/alexisbcook/missing-values
+* https://www.kaggle.com/alexisbcook/pipelines
+
+
+**Advanced**:
+* Pick a challenge on [Kaggle](https://www.kaggle.com/). You can work in groups. Present the approach and the results at the end of the day.
+* https://github.com/godatadriven/code-breakfast-azure-ml
+* https://github.com/beginners-machine-learning-london/intro_to_unsupervised_ml_with_AWS_Sagemaker/blob/f70412e02fdff5b0ccb47c7fd51b2914b896062a/exercises/Intro%20to%20Unsupervised%20ML%20with%20AWS%20Sagemaker.ipynb
+
+---
+
+References:
+* https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+* https://github.com/qjcg/nb
